@@ -32,10 +32,10 @@
 直接 CLI 実行する場合:
 
 ```bash
-python3 /home/runner/work/fabric_sample/fabric_sample/tools/generate_fabric_assets.py \
+python3 tools/generate_fabric_assets.py \
   --industry retail \
   --records 1000 \
-  --output /home/runner/work/fabric_sample/fabric_sample/output/retail
+  --output output/retail
 ```
 
 ## 5. Fabric ワークスペース構築（主に手動設定）
