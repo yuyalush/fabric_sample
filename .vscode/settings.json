@@ -1,0 +1,11 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "text": "このリポジトリでは Microsoft Fabric の検証（Lakehouse/semantic model/Data Agent）に沿って回答すること。"
+    }
+  ],
+  "python.defaultInterpreterPath": "python3",
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}
