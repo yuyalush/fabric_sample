@@ -1,0 +1,2 @@
+# fabric_sample
+Microsoft Fabricの一通りの機能を試すためのセットアップガイドとサンプルデータ
